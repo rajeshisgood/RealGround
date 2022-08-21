@@ -1,0 +1,14 @@
+.CusSearchInput{
+    font-weight: 800;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    top: 0;
+    border: none;
+    background: #343a40;
+    outline: none;
+    z-index: 2;
+    color: navajowhite;
+    cursor: auto;
+    caret-color:transparent;
+}
